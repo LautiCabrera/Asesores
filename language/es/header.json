@@ -1,0 +1,14 @@
+{
+    "home": "Inicio",
+    "about": "Nosotros",
+    "services": "Servicios",
+    "accountingTax": "Fiscal & Contable",
+    "labour": "Laboral",
+    "legal": "Legal",
+    "resident": "No residente",
+    "estate": "Inmobiliario",
+    "other": "Otros servicios",
+    "contact": "Contacto",
+    "appointment": "Solicitar una Cita",
+    "image":"/img/logo_es.svg"
+}
