@@ -43,7 +43,7 @@ function toggleLanguage(language) {
   const estateJsonPath = `language/${currentLanguage}/estate.json`;
   const otherJsonPath = `language/${currentLanguage}/other.json`;
 
-  if (currentPage === "/index.html") {
+  if (currentPage === "/") {
     // Home
 
     fetch(homeJsonPath)
